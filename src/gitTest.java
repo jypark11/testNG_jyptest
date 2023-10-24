@@ -5,5 +5,7 @@ public class gitTest {
         System.out.println("마스터");
         System.out.println("마스터도 개발을 하는 중이였습니다.");
     }
-    public void brancher{}
+    public void brancher{
+        System.out.println("제가 수정해 볼께요.");
+    }
 }
